@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suryanshagrawal
+- 👋 Hi, I’m <a href="https://github.com/suryanshagrawal">@suryanshagrawal</a>
 - 👀 I’m interested in Data Analytics, R, Python, Graphic Design, and Ideas
 - 🌱 I’m currently learning R, Python, XML, JSON, HTML, CSS, Excel, SQL, Adobe Photoshop, Adobe Illustrator
 - 🎓 I'm a Freshman at <a href="https://www.denison.edu">Denison University</a> double majoring in Data Analytics and Matheamatics
