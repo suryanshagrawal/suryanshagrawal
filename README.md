@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @suryanshagrawal
 - 👀 I’m interested in Data Analytics, R, Python, Graphic Design, and Ideas
 - 🌱 I’m currently learning R, Python, XML, JSON, HTML, CSS, Excel, SQL
-- 🎓 I'm a Freshman at <a href="denison.edu">Denison University</a> double majoring in Data Analytics and Matheamatics
+- 🎓 I'm a Freshman at <a href="https://www.denison.edu">Denison University</a> double majoring in Data Analytics and Matheamatics
 - ❤️ I did my high school from <a href="https://emeraldheights.edu.in">The Emerald Heights International School</a>
 - 📫 You can contact me by visiting my <a href="https://www.poplme.co/suryansh04">Contact Website</a>
 - 💻 Visit my personal/professional website <a href="https://www.suryanshagrawal.com">Suryansh Agrawal</a>
